@@ -9,3 +9,7 @@
 <h3>Youtube Channels</h3>
 <p>I know that this is a lot to process here. One can never keep track of everything and the landscape <a href="https://www.youtube.com/watch?v=1zZZjaYl4AA">keeps shifting</a> but I am nonetheless, going to go ahead and create this list of some of the most amazing videos/channels on YouTube that have helped me throughout my difficult times.<p>
 
+<ul>
+<li><a href="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA">Computerphile<a></li>
+<li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown<a></li>
+</ul>
