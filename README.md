@@ -4,3 +4,8 @@
 <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">DeepMind's UCL course lectures</a> went live on June 1. Apparently really good for intuition and recent research from the first looks of it as I can already see papers cited from 2020. Will keep you posted as I go through the videos one by one later this week Inshallah.<br><br>
 
 <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">Introduction to Deep Leaning</a> went live in February 2020. This series of lectures gives you an amazing perspective on cutting edge research with regards to reinforcement learning and some of the other relevant domains that are more au courant these days. More importantly, I found them to be really eye-opening in terms of the more daunting challenges such as Scent Detection, AGI and the likes. impact I wasn't able to spare time to watch the Reinforcement part though but I will return back to it once I have the time.<br>
+
+
+<h3>Youtube Channels</h3>
+<p>I know that this is a lot to process here. One can never keep track of everything and the landscape <a href="https://www.youtube.com/watch?v=1zZZjaYl4AA">keeps shifting</a> but I am nonetheless, going to go ahead and create this list of some of the most amazing videos/channels on YouTube that have helped me throughout my difficult times.<p>
+
