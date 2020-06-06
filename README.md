@@ -16,8 +16,11 @@
 <li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown<a></li>
 </ul>
 
+<h3>Benchmark Websites</h3>
+While researching for some stuff, I stumbled accross these websites that provide with an excellent resource to track benchmark results down, sometimes with the code link on GitHub too. 
+<a href="https://paperswithcode.com/">Papers with Code</a><br><br>
+<a href="http://ai-benchmark.com/">AI Benchmark</a><br><br>
 
 <h3>Papers</h3>
 <h5>Image Recognition</h5>
 <a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a> A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets.<br><br>
-
