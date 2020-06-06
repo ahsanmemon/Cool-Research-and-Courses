@@ -17,9 +17,11 @@
 </ul>
 
 <h3>Benchmark Websites</h3>
-While researching for some stuff, I stumbled accross these websites that provide with an excellent resource to track benchmark results down, sometimes with the code link on GitHub too. 
-<a href="https://paperswithcode.com/">Papers with Code</a><br><br>
-<a href="http://ai-benchmark.com/">AI Benchmark</a><br><br>
+While researching for some stuff, I stumbled accross these websites that provide with an excellent resource to track benchmark results down, sometimes with the code link on GitHub too. <br>
+<ul>
+<li><a href="https://paperswithcode.com/">Papers with Code</a></li>
+<li><a href="http://ai-benchmark.com/">AI Benchmark</a></li>
+</ul>
 
 <h3>Papers</h3>
 <h5>Image Recognition</h5>
