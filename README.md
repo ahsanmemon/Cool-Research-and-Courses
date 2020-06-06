@@ -8,7 +8,7 @@
 <a href="https://www.udemy.com/course/deeplearning/learn/lecture/6743222?start=0#overview">Deep Learning A-Z</a> is a comprehensive course for deep learning enthusiasts. I would say it is more for beginners rather than experts, but with a video content of over 20 hours, it touches many aspects of the practical side of deep learning with Tensorflow and related frameworks.<br>
 
 <h5>2017</h5>
-<a href="https://www.coursera.org/specializations/deep-learning">deeplearning.ai's flagship course that I feel is one of the best courses out there about deep learning. I think this course builds the foundations of deep leanring really well but one needs to do a tensorflow/keras/pytorch specialzation on top of it to really be able to implement this knowledge in the market.<br>
+<a href="https://www.coursera.org/specializations/deep-learning">deeplearning.ai</a>'s flagship course that I feel is one of the best courses out there about deep learning. I think this course builds the foundations of deep leanring really well but one needs to do a tensorflow/keras/pytorch specialzation on top of it to really be able to implement this knowledge in the market.<br>
 
 
 <h3>Youtube Channels</h3>
