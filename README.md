@@ -29,3 +29,5 @@ While researching for some stuff, I stumbled accross these websites that provide
 <h3>Papers</h3>
 <h5>Image Recognition</h5>
 <a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a> A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets.<br><br>
+
+<a href="https://arxiv.org/abs/1503.03832">FaceNet: A Unified Embedding for Face Recognition and Clustering</a> A frontrunner in the race of Face Recognition Systems.<br><br>
