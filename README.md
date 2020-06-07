@@ -29,5 +29,10 @@ While researching for some stuff, I stumbled accross these websites that provide
 <h3>Papers</h3>
 <h5>Image Recognition</h5>
 <a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a> A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets.<br><br>
-
 <a href="https://arxiv.org/abs/1503.03832">FaceNet: A Unified Embedding for Face Recognition and Clustering</a> A frontrunner in the race of Face Recognition Systems.<br><br>
+
+<h3>Repos</h3>
+<a href="https://github.com/tensorflow/models/tree/master/research">Tensorflow Research Repo</a> is an amazing repo that gives you access to implementations of some of the more advanced models out there in the market. These include many algorithms that are not available at the <a href="https://www.tensorflow.org/tutorials">Tensorflow Tutorials</a> webpage.<br><br>
+
+<a href="https://www.tensorflow.org/tutorials">Tensorflow Tutorials</a> are more for people who have just finished basic Tensorflow courses and are now ready to delve into more complex architectures that are seldom covered in those courses. They are really useful if you want to implement certain functionality out of the box. However, I did not find them easy to understand because they use Tensorflow almost completely (for performance reasons). Nonetheless, they are great for out-of-the-box implementations.<br><br>
+
