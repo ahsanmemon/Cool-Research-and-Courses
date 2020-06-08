@@ -39,7 +39,7 @@ While researching for some stuff, I stumbled accross these websites that provide
   <tr>
     <td>Image Recognition</td>
     <td><a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a></td>
-    <td><a href='https://github.com/wvangansbeke/Unsupervised-Classification'>link</a></td>
+    <td><a href='https://github.com/wvangansbeke/Unsupervised-Classification'>link</a>, <a href='https://medium.com/@SeoJaeDuk/learning-to-classify-images-without-labels-43655a1cb4c7'>tutorial</a></td>
     <td>2020</td>
     <td>A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets</td>
   </tr>
