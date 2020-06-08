@@ -27,9 +27,37 @@ While researching for some stuff, I stumbled accross these websites that provide
 </ul>
 
 <h3>Papers</h3>
-<h5>Image Recognition</h5>
-<a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a> A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets.<br><br>
-<a href="https://arxiv.org/abs/1503.03832">FaceNet: A Unified Embedding for Face Recognition and Clustering</a> A frontrunner in the race of Face Recognition Systems.<br><br>
+
+<table style="width:100%">
+  <tr>
+    <th>Domain</th>
+    <th>Paper</th>
+    <th>Git Repo</th>
+    <th>Year</th>
+    <th>Comments</th>
+  </tr>
+  <tr>
+    <td>Image Recognition</td>
+    <td><a href="https://arxiv.org/pdf/2005.12320.pdf">Learning To Classify Images Without Labels</a></td>
+    <td></td>
+    <td>2020</td>
+    <td>A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets</td>
+  </tr>
+  <tr>
+    <td>Image Recognition</td>
+    <td><a href="https://arxiv.org/abs/1503.03832">FaceNet: A Unified Embedding for Face Recognition and Clustering</a></td>
+    <td></td>
+    <td>2015</td>
+    <td>A frontrunner (a bit older now) in the race of Face Recognition Systems</td>
+  </tr>
+  <tr>
+    <td>Speech Recognition</td>
+    <td><a href="https://arxiv.org/abs/1710.10467">Generalized End-to-End Loss for Speaker Verification</a></td>
+    <td></td>
+    <td>2017</td>
+    <td>One of the best papers out there in the domain of speaker identification, verification. I think it is a bit old now, but its a very good read nonetheless</td>
+  </tr>
+</table>
 
 <h3>Repos</h3>
 <a href="https://github.com/tensorflow/models/tree/master/research">Tensorflow Research Repo</a> is an amazing repo that gives you access to implementations of some of the more advanced models out there in the market. These include many algorithms that are not available at the <a href="https://www.tensorflow.org/tutorials">Tensorflow Tutorials</a> webpage.<br><br>
