@@ -24,10 +24,17 @@ While researching for some stuff, I stumbled accross these websites that provide
 <ul>
 <li><a href="https://paperswithcode.com/">Papers with Code</a></li>
 <li><a href="http://ai-benchmark.com/">AI Benchmark</a></li>
+</ul> 
+
+<h3>Books</h3>
+This list lists some of the books that I find useful for refrencing when I am working with a Deep Learning problem and need to look back at some concepts for the task.<br>
+<ul>
+<li><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</a> by Aurelien Geron</li>
+<li><a href="https://www.deeplearningbook.org/">Deep Learning</a> by Ian Goodfellow and Yoshua Bengio and Aaron Courville</li>
 </ul>
 
-<h3>Papers</h3>
 
+<h3>Papers</h3>
 <table style="width:100%">
   <tr>
     <th>Domain</th>
