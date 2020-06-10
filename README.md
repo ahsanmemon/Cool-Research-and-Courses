@@ -44,7 +44,7 @@ This list lists some of the books that I find useful for refrencing when I am wo
     <th>Comments</th>
   </tr>
   <tr>
-    <td>Speceh Synthesis</td>
+    <td>Speech Synthesis</td>
     <td><a href="https://arxiv.org/pdf/2006.03575.pdf">End-to-End Adversarial Text-to-Speech</a></td>
     <td></td>
     <td>2020</td>
