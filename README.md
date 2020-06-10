@@ -46,9 +46,9 @@ This list lists some of the books that I find useful for refrencing when I am wo
   <tr>
     <td>Speceh Synthesis</td>
     <td><a href="https://arxiv.org/pdf/2006.03575.pdf">End-to-End Adversarial Text-to-Speech</a></td>
-    <td><a href='https://github.com/wvangansbeke/Unsupervised-Classification'>link</a>, <a href='https://medium.com/@SeoJaeDuk/learning-to-classify-images-without-labels-43655a1cb4c7'>tutorial</a></td>
+    <td></td>
     <td>2020</td>
-    <td>A seminal paper on Image Recognition that I believe will make waves throughout the research community in the coming years. They have beaten the SOTA methods by a margin of over 20% on CIFAR10 and CIFAR100-20 datasets</td>
+    <td>Another Generative Modeling Speech synthesis paper after <a href="https://arxiv.org/abs/1909.11646">GAN-TTS</a>. This time, its end-to-end.</td>
   </tr>
   <tr>
     <td>Image Recognition</td>
