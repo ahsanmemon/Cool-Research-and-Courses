@@ -80,3 +80,6 @@ This list lists some of the books that I find useful for refrencing when I am wo
 
 <a href="https://www.tensorflow.org/tutorials">Tensorflow Tutorials</a> are more for people who have just finished basic Tensorflow courses and are now ready to delve into more complex architectures that are seldom covered in those courses. They are really useful if you want to implement certain functionality out of the box. However, I did not find them easy to understand because they use Tensorflow almost completely (for performance reasons). Nonetheless, they are great for out-of-the-box implementations.<br><br>
 
+<h3>Interesting Topics and Keywords</h3>
+<h4>Computer Vision</h4>
+Semantic Clustering, Unsupervised Learning, Self-Supervised Learning, Semi-Supervised Learning 
