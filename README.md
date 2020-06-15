@@ -80,6 +80,10 @@ This list lists some of the books that I find useful for refrencing when I am wo
 
 <a href="https://www.tensorflow.org/tutorials">Tensorflow Tutorials</a> are more for people who have just finished basic Tensorflow courses and are now ready to delve into more complex architectures that are seldom covered in those courses. They are really useful if you want to implement certain functionality out of the box. However, I did not find them easy to understand because they use Tensorflow almost completely (for performance reasons). Nonetheless, they are great for out-of-the-box implementations.<br><br>
 
+<a href="https://www.tensorflow.org/tutorials/quickstart/advanced">Tensorflow Advanced Tutorials</a> gives you an insight into Gradient Tape, custom training loop and a bunch of things that you would need if you are working with advanced architectures. I find this tutorial really useful for when I want to be creative with neural nets and want to do more things custom than picking out-of-the-box implementatons. <br><br>
+
+
+
 <h3>Interesting Topics and Keywords</h3>
 <h4>Computer Vision</h4>
 Semantic Clustering, Unsupervised Learning, Self-Supervised Learning, Semi-Supervised Learning 
