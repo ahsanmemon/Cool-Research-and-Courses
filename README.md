@@ -10,6 +10,7 @@
 <h5>2019</h5>
 <a href="https://www.coursera.org/specializations/tensorflow-in-practice">deeplearning.ai's Tensorflow in Practice Specialization</a> is a series of courses for hands-on experience with tensorflow and keras. As of June 2020, it focuses mostly on the Keras side of things covering a range of topics.<br>
 
+
 <h5>2017</h5>
 <a href="https://www.coursera.org/specializations/deep-learning">deeplearning.ai</a>'s flagship course that I feel is one of the best courses out there about deep learning. I think this course builds the foundations of deep leanring really well but one needs to do a tensorflow/keras/pytorch specialzation on top of it to really be able to implement this knowledge in the market.<br>
 
