@@ -6,6 +6,7 @@
 
 <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">Introduction to Deep Leaning</a> went live in February 2020. This series of lectures gives you an amazing perspective on cutting edge research with regards to reinforcement learning and some of the other relevant domains that are more au courant these days. More importantly, I found them to be really eye-opening in terms of the more daunting challenges such as Scent Detection, AGI and the likes. impact I wasn't able to spare time to watch the Reinforcement part though but I will return back to it once I have the time.<br>
 
+
 <a href="https://www.udemy.com/course/deeplearning/learn/lecture/6743222?start=0#overview">Deep Learning A-Z</a> is a comprehensive course for deep learning enthusiasts. I would say it is more for beginners rather than experts, but with a video content of over 20 hours, it touches many aspects of the practical side of deep learning with Tensorflow and related frameworks.<br>
 <h5>2019</h5>
 <a href="https://www.coursera.org/specializations/tensorflow-in-practice">deeplearning.ai's Tensorflow in Practice Specialization</a> is a series of courses for hands-on experience with tensorflow and keras. As of June 2020, it focuses mostly on the Keras side of things covering a range of topics.<br>
