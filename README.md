@@ -91,3 +91,7 @@ This list lists some of the books that I find useful for refrencing when I am wo
 <h4>Computer Vision</h4>
 Semantic Clustering, Unsupervised Learning, Self-Supervised Learning, Semi-Supervised Learning 
 
+
+<h3>AI Companies</h3>
+<p><a href="https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#595f2eca5c99">Here</a> is a list of the Forbes 50 AI companies</p>
+
