@@ -1,5 +1,11 @@
 # Cool-Research-and-Courses<br>
 
+<h3>Great Tutorials</h3>
+<h5>Transformers</h5>
+<ul>
+<li><a href="http://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a> by Jay Allamar is an amazing tutorial if you want to understand how the transformer architecture works. I had great help from it while creating my own transformer network from scratch.</li>
+</ul><br>
+
 <h3>Courses</h3>
 <h5>2020</h5>
 <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">DeepMind's UCL course lectures</a> went live on June 1. Apparently really good for intuition and recent research from the first looks of it as I can already see papers cited from 2020. Will keep you posted as I go through the videos one by one later this week Inshallah.<br>
