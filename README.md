@@ -10,6 +10,7 @@
 
 <h5>2020</h5>
 <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">DeepMind's UCL course lectures</a> went live on June 1. Apparently really good for intuition and recent research from the first looks of it as I can already see papers cited from 2020. Will keep you posted as I go through the videos one by one later this week Inshallah.<br>
+
 Technical University Munich's <a href="https://www.youtube.com/watch?v=QLOocPbztuc&list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e">Introduction to Deep Learning Course</a> (<a href="https://niessner.github.io/I2DL/">slides</a>) went live in April. While I haven't really taken the lectures yet, but from the outlook of it and the topics covered, it seems that this is a beginner level course ideal for people starting their careers with deep learning. More like another version of Andrew Ng's deep learning specialization.<br>
 
 
