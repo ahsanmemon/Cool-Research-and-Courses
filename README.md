@@ -1,7 +1,7 @@
 # Cool-Research-and-Courses<br>
 
 <h3>Great Tutorials</h3>
-<h5>Transformers</h5>
+<h5>Transformers and Tech</h5>
 <ul>
 <li><a href="http://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a> by <a href="https://www.linkedin.com/today/author/jalammar/">Jay Allamar</a> is an amazing tutorial if you want to understand how the transformer architecture works. I had great help from it while creating my own transformer network from scratch.</li>
 </ul><br>
