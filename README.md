@@ -5,7 +5,7 @@
 
 <ul>
 <li><a href="http://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a> by <a href="https://www.linkedin.com/today/author/jalammar/">Jay Allamar</a> is an amazing tutorial if you want to understand how the transformer architecture works. I had great help from it while creating my own transformer network from scratch.</li>
-<li><a href="http://jalammar.github.io/illustrated-gpt2/">Illustrated GPT 2</a> is another great tutorial by Jay Allamar. Although most of concepts that it explains come from the first tutorial, but nonetheless, the tutorial does a great job explaining the GPT 2 and "transformer decoder" model that only has decoder layers</li>  
+<li><a href="http://jalammar.github.io/illustrated-gpt2/">Illustrated GPT 2</a> is another great tutorial by <a href="https://www.linkedin.com/today/author/jalammar/">Jay Allamar</a>. Although most of concepts that it explains come from the first tutorial, but nonetheless, the tutorial does a great job explaining the GPT 2 and "transformer decoder" model that only has decoder layers</li>  
 <li><a href="https://demo.allennlp.org/">Natural Language Processing Demo</a> from the Allen Institute</li>
 </ul><br>
 
