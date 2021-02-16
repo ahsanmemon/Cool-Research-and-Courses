@@ -96,6 +96,14 @@ This list lists some of the books that I find useful for refrencing when I am wo
     <td>2017</td>
     <td>One of the best papers out there in the domain of speaker identification, verification. I think it is a bit old now, but its a very good read nonetheless</td>
   </tr>
+  <tr>
+    <td>Image Recognition</td>
+    <td><a href="https://arxiv.org/pdf/2102.06171.pdf">High-Performance Large-Scale Image Recognition Without Normalization</a></td>
+    <td><a href='https://paperswithcode.com/paper/high-performance-large-scale-image'>link</a></td>
+    <td>2021</td>
+    <td>Major improvements (>8x) in reducing training time</td>
+  </tr>
+  
 </table>
 
 <h3>Repos</h3>
